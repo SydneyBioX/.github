@@ -9,6 +9,7 @@ Open data analyses and data from published papers and workshops are also release
 ### R Packages
 - [CiteFuse](https://github.com/SydneyBioX/CiteFuse): A streamlined package consisting of a suite of tools for pre-processing, modality integration, clustering, differential RNA and ADT expression analysis, ADT evaluation, ligand-receptor interaction analysis, and interactive web-based visualization of CITE-seq data.
 - [ClassifyR](https://github.com/SydneyBioX/ClassifyR): A framework for cross-validated classification problems, with applications to differential variability and differential distribution testing.
+- [CPOP](https://github.com/SydneyBioX/CPOP): Cross-platform omics prediction (CPOP) is a statistical machine learning framework for transferable models in precision medicine.
 
 ### Open Data Analyses
 - [CiteFuse2020Kim](https://github.com/SydneyBioX/CiteFuse2020Kim): Scripts to reproduce all figures in our [CiteFuse manuscript](https://www.biorxiv.org/content/10.1101/854299v1).          
