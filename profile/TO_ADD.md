@@ -17,7 +17,8 @@
 - [scREMOTE](https://github.com/SydneyBioX/scREMOTE): A single cell reprogramming model through CREs.
 - [SimBench](https://github.com/SydneyBioX/SimBench): A package designed for benchmarking simulation methods based on two key aspects: data property estimation accuracy and ability to retain biological signals.
 - [simKAP](https://github.com/SydneyBioX/simKAP): Kidney allocation simulation process package.
-    - Not enough info.
+    - **Not enough info**.
+- [simpleSeg](https://github.com/SydneyBioX/simpleSeg): A structured pipeline for segmentation of cellular tiff stacks and the normalization of features, priming cells for classification / clustering.
 
 
 ### Open Data Analyses
@@ -28,13 +29,13 @@
 
 ### Datasets
 - [BioHEART_metabolomics](https://github.com/SydneyBioX/BioHEART_metabolomics): Open heart metabolomics data.
-    - Need more information about this.
+    - **Need more information about this**.
 - [PD16SData](https://github.com/SydneyBioX/PD16SData): Open preprocessed 16S gut microbiome data.
     - 11 participants.
     - Need more info.
 - [scMerge.data](https://github.com/SydneyBioX/scMerge.data): Illustrative data to demonstrate the utility of the `scMerge` package.
 - [SimBenchData](https://github.com/SydneyBioX/SimBenchData): SimBench data.
-    - No readme on public repo.
+    - **No readme on public repo**.
 
 ### Shiny Apps and Dashboards
 - [LC-N2G](https://github.com/SydneyBioX/LCN2G): An app exploring the relationship between nutrition and its corresponding gene expression data
@@ -48,17 +49,18 @@
 - [EMBLworkshop2018](https://github.com/SydneyBioX/EMBLworkshop2018): A 2018 workshop exploring a tissue expression dataset with the hierarchical clustering and k-means clustering algorithm and visualise the dataset using heatmaps and dimension reduction tools.
 - [localWorkshop](https://github.com/SydneyBioX/localWorkshop): A 2018 workshop slides and website for cross-validated classification.
 - [SC_CPC_workshop](https://github.com/SydneyBioX/SC_CPC_workshop): A 2019 on single cell analysis.
+- [SingleCellPlus](https://github.com/SydneyBioX/SingleCellPlus):
 
 ### Workflows
 - [COVID_CCI_analysis](https://github.com/SydneyBioX/COVID_CCI_analysis): A generalizable and scalable workflow for cell type annotation, data integration and differential cell cell interaction across COVID-19 patients with distinct disease outcomes.
 
 ### Misc.
 - [CPOP_public](https://github.com/SydneyBioX/CPOP_public): Assorted r-markdown scripts.
-    - Need more information.
+    - **Need more information**.
 - [KidneyAllocationProcess](https://github.com/SydneyBioX/KidneyAllocationProcess): Assorted r-markdown scripts.
-    - Need more information.
+    - **Need more information**.
 - [microbiome-PD](https://github.com/SydneyBioX/microbiome-PD): Microbiome Parkinson study. Assorted r-markdown scripts.
-    - Need more information.
+    - **Need more information**.
 - [RNASeq](https://github.com/SydneyBioX/RNASeq): Snakemake scripts for processing bulk and single cell RNAseq data.
 - [scdneyAdvancedPhenotyping](https://github.com/SydneyBioX/scdneyAdvancedPhenotyping):  Assorted r-markdown scripts.
-    - Need more information.
+    - **Need more information**.
