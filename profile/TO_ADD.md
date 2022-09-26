@@ -48,8 +48,8 @@
 - [cornell_sc_workshop](https://github.com/SydneyBioX/cornell_sc_workshop): A 2020 workshop on single cell analysis workshop at Cornell University.
 - [EMBLworkshop2018](https://github.com/SydneyBioX/EMBLworkshop2018): A 2018 workshop exploring a tissue expression dataset with the hierarchical clustering and k-means clustering algorithm and visualise the dataset using heatmaps and dimension reduction tools.
 - [localWorkshop](https://github.com/SydneyBioX/localWorkshop): A 2018 workshop slides and website for cross-validated classification.
-- [SC_CPC_workshop](https://github.com/SydneyBioX/SC_CPC_workshop): A 2019 on single cell analysis.
-- [SingleCellPlus](https://github.com/SydneyBioX/SingleCellPlus):
+- [SC_CPC_workshop](https://github.com/SydneyBioX/SC_CPC_workshop): A 2019 workshop on single cell analysis.
+- [SingleCellPlus](https://github.com/SydneyBioX/SingleCellPlus): A 2019 workshop on quality control of sc-RNASeq data, using `scMerge` for integrating multiple sc-RNASeq data and downstream analysis after `scMerge`.
 
 ### Workflows
 - [COVID_CCI_analysis](https://github.com/SydneyBioX/COVID_CCI_analysis): A generalizable and scalable workflow for cell type annotation, data integration and differential cell cell interaction across COVID-19 patients with distinct disease outcomes.
