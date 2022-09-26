@@ -1,6 +1,6 @@
-## Repositories
+# Repository Directory
 
-### R Packages
+## R Packages
 - [CiteFuse](https://github.com/SydneyBioX/CiteFuse): A streamlined package consisting of a suite of tools for pre-processing, modality integration, clustering, differential RNA and ADT expression analysis, ADT evaluation, ligand-receptor interaction analysis, and interactive web-based visualisation of CITE-seq data.
 - [ClassifyR](https://github.com/SydneyBioX/ClassifyR): A framework for cross-validated classification problems, with applications to differential variability and differential distribution testing.
 - [CPOP](https://github.com/SydneyBioX/CPOP): A statistical machine learning framework for transferable models in precision medicine.
@@ -23,14 +23,14 @@
     - **Needs more info**.
 - [SurvBenchmark_package](https://github.com/SydneyBioX/SurvBenchmark_package): A package which contains the analytical work done for the [SurvBenchmark study](https://doi.org/10.1093/gigascience/giac071).
 
-### Open Data Analyses
+## Open Data Analyses
 - [CiteFuse2020Kim](https://github.com/SydneyBioX/CiteFuse2020Kim): Scripts which reproduce all figures in our [CiteFuse manuscript](https://www.biorxiv.org/content/10.1101/854299v1).
 - [NEMoE_MS](https://github.com/SydneyBioX/NEMoE_MS): Scripts which reproduce the results from the [NEMoE paper](https://www.medrxiv.org/content/10.1101/2021.11.10.21266194v1).
 - [scClassify_analysis](https://github.com/SydneyBioX/scClassify_analysis): Scripts which reproduce the results from the [scClassify manuscript](https://doi.org/10.15252/msb.20199389).
 - [SurvBenchmark](https://github.com/SydneyBioX/SurvBenchmark): Analyses and data related to the [SurvBenchmark study](https://doi.org/10.1093/gigascience/giac071), which benchmarks survival analysis methods using both omics data and clinical data.
 
 
-### Datasets
+## Datasets
 - [BioHEART_metabolomics](https://github.com/SydneyBioX/BioHEART_metabolomics): Open heart metabolomics data.
     - **Need more information about this**.
 - [PD16SData](https://github.com/SydneyBioX/PD16SData): Open preprocessed 16S gut microbiome data.
@@ -40,10 +40,10 @@
 - [SimBenchData](https://github.com/SydneyBioX/SimBenchData): SimBench data.
     - **No readme on public repo**.
 
-### Shiny Apps and Dashboards
+## Shiny Apps and Dashboards
 - [LC-N2G](https://github.com/SydneyBioX/LCN2G): An app exploring the relationship between nutrition and its corresponding gene expression data
 
-### Workshops
+## Workshops
 - [BiocAsia2020CiteFuse](https://github.com/SydneyBioX/BiocAsia2020CiteFuse): A 2020 workshop covering multi-modal profiling of different biomolecule species in individual cells using CiteFuse.
 - [BIS2019_IntroUnix](https://github.com/SydneyBioX/BIS2019_IntroUnix): A 2019 workshop which guides users through the basics of Linux.
 - [BIS2019_PhosR](https://github.com/SydneyBioX/BIS2019_PhosR): A 2019 workshop illustrating some key components in PhosR package.
@@ -58,11 +58,11 @@
     - **Empty public repo**.
 - [TrainClassifyR](https://github.com/SydneyBioX/TrainClassifyR): A 2018 ClassifyR workshop run at the Bioconductor Symposium.
 
-### Workflows
+## Workflows
 - [COVID_CCI_analysis](https://github.com/SydneyBioX/COVID_CCI_analysis): A generalisable and scalable workflow for cell type annotation, data integration and differential cell interaction across COVID-19 patients with distinct disease outcomes.
 - [spicyWorkflow](https://github.com/SydneyBioX/spicyWorkflow): A workflow for performing analysis of highly multiplexed in situ imaging cytometry assays such as IMC, CODEX and MIBI-TOF using spicyR.
 
-### Misc.
+## Misc.
 - [CPOP_public](https://github.com/SydneyBioX/CPOP_public): Assorted r-markdown scripts.
     - **Need more information**.
 - [KidneyAllocationProcess](https://github.com/SydneyBioX/KidneyAllocationProcess): Assorted r-markdown scripts.
