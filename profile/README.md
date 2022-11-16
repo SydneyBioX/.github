@@ -1,6 +1,6 @@
-# SydneyBioX Sydney Precision Bioinformatics Alliance (SPBA) Repository
+# SydneyBioX - The Sydney Precision Bioinformatics Cluster
 
-This is the public repository of the Bioinformatics cluster of the Sydney Precision Data Science Centre at the University of Sydney. Here, SPBA projects are developed and released to the public. SPBA develop methods and R packages which meet a range of needs for topics ranging from predictive biomarkers to single cell data analysis. 
+This is the public repository of the Precision Bioinformatics Cluster of the Sydney Precision Data Science Centre at the University of Sydney. Here, you can access R packages developed by members of the Precision Bioinformatics Cluster methods covering a broad range of topics ranging from generating predictive biomarkers to single cell data analysis. 
 
 Additionally, open analyses and data from published papers, workshops, workflows, and useful scripts are released here.
 
