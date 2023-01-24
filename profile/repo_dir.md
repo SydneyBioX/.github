@@ -44,6 +44,7 @@
 - [LC-N2G](https://github.com/SydneyBioX/LCN2G): An app exploring the relationship between nutrition and its corresponding gene expression data
 
 ## Workshops
+- [scdneyAdvancedPhenotyping](https://github.com/SydneyBioX/scdneyAdvancedPhenotyping): A 2021 workshop for single-cell advanced phenotyping workshop.
 - [BiocAsia2020CiteFuse](https://github.com/SydneyBioX/BiocAsia2020CiteFuse): A 2020 workshop covering multi-modal profiling of different biomolecule species in individual cells using CiteFuse.
 - [BIS2019_IntroUnix](https://github.com/SydneyBioX/BIS2019_IntroUnix): A 2019 workshop which guides users through the basics of Linux.
 - [BIS2019_PhosR](https://github.com/SydneyBioX/BIS2019_PhosR): A 2019 workshop illustrating some key components in PhosR package.
@@ -70,7 +71,5 @@
 - [microbiome-PD](https://github.com/SydneyBioX/microbiome-PD): Microbiome Parkinson study. Assorted r-markdown scripts.
     - **Need more information**.
 - [RNASeq](https://github.com/SydneyBioX/RNASeq): Snakemake scripts for processing bulk and single cell RNAseq data.
-- [scdneyAdvancedPhenotyping](https://github.com/SydneyBioX/scdneyAdvancedPhenotyping): Assorted r-markdown scripts.
-    - **Need more information**.
 - [SingleCellsChallenge2019](https://github.com/SydneyBioX/SingleCellsChallenge2019): A repository for the single cell data analysis challenge which ran during the Oz Single Cell 2019 conference.
 - [WholeGenomeDNA](https://github.com/SydneyBioX/WholeGenomeDNA): A set of scripts to process whole genome sequencing DNA data on a PBS Cluster.
